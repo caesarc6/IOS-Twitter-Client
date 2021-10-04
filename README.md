@@ -16,6 +16,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img src='https://media.giphy.com/media/IFRgkFTSw4YpvNIDMY/giphy.gif' width='' alt='Video Walkthrough' />
 
 <img src='https://media.giphy.com/media/DM4bw03zCXp9aWu7aZ/giphy.gif' width='' alt='Video Walkthrough' />
 # Twitter - Part I
